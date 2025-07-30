@@ -13,6 +13,7 @@
 - **Tailwind CSS** + **shadcn/ui** components
 - **Lucide React** icons
 - **Custom CSS Animations** (space-inspired)
+![image alt](https://raw.githubusercontent.com/birukG09/Developers-hive/de509690f77bdcd3fc1a68d96ea4756700e0b614/FireShot%20Capture%20008%20-%20v0%20-%20%5Bpreview-devhive-project-details-kzmfwjrpyul499xz8y85.vusercontent.net%5D.png)
 
 ### 🧠 Backend
 
