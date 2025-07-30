@@ -30,6 +30,7 @@
 - `Avatar`, `Progress`, `Tabs`, `Dialog`
 - `Select`, `Switch`, `Dropdown`, `Alert`
 - `Accordion`, `Theme Toggle`, `Animated Background`
+![image alt](https://raw.githubusercontent.com/birukG09/Developers-hive/29975cd1fdd20e1256313c3a5f2288efc4f310bc/FireShot%20Capture%20007%20-%20v0%20-%20%5Bpreview-devhive-project-details-kzmfwjrpyul499xz8y85.vusercontent.net%5D.png)
 
 ---
 
