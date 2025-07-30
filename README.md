@@ -1,8 +1,8 @@
 # 🐝 DevHive — Developer Collaboration Platform
 
 **DevHive** is a full-stack, production-ready platform built for real-time developer collaboration. It enables users to code together live, share micro knowledge drops, participate in timed sessions, and grow through gamified learning — all within a modern, responsive, cosmic-themed UI.
+![image alt](https://raw.githubusercontent.com/birukG09/Developers-hive/5634b6e8f8d3990adff875b9b4f585282951bf77/FireShot%20Capture%20005%20-%20v0%20-%20%5Bpreview-devhive-project-details-kzmqe58sbrylm3o0hdfz.vusercontent.net%5D.png)
 
----
 
 ## 🚀 Tech Stack
 
